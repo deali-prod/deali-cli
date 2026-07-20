@@ -1,0 +1,15 @@
+{
+  "name": "deali-cli",
+  "version": "1.0.0",
+  "description": "Query deali.co.il's free AliExpress-deals API from the terminal. Curated deals for Israel in ILS, no API key.",
+  "keywords": ["deali", "aliexpress", "deals", "israel", "cli", "agent", "mcp", "shopping"],
+  "homepage": "https://www.deali.co.il/developers",
+  "repository": { "type": "git", "url": "git+https://github.com/deali-prod/deali-cli.git" },
+  "bugs": { "url": "https://github.com/deali-prod/deali-cli/issues" },
+  "license": "MIT",
+  "author": "Deali (https://www.deali.co.il)",
+  "type": "module",
+  "bin": { "deali": "cli.mjs" },
+  "files": ["cli.mjs", "SKILL.md", "AGENTS.md", "README.md"],
+  "engines": { "node": ">=18" }
+}
