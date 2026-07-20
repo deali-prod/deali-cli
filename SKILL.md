@@ -10,7 +10,7 @@ description: Search curated AliExpress deals for Israel from the command line vi
 ## Install
 
 ```bash
-npm i -g deali-cli
+npm i -g deali-deals
 ```
 
 ## When to use

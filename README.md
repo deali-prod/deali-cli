@@ -1,9 +1,9 @@
-# deali-cli
+# deali-deals (`deali` CLI)
 
 Query **[Deali](https://www.deali.co.il)** — curated AliExpress deals for Israel — from the terminal. Zero dependencies, **no API key**, prices in ILS (₪).
 
 ```bash
-npm i -g deali-cli
+npm i -g deali-deals
 ```
 
 ## Usage
