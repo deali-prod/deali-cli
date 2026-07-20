@@ -1,6 +1,6 @@
 {
   "name": "deali-deals",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Query deali.co.il's free AliExpress-deals API from the terminal. Curated deals for Israel in ILS, no API key.",
   "keywords": [
     "deali",
@@ -12,7 +12,7 @@
     "mcp",
     "shopping"
   ],
-  "homepage": "https://www.deali.co.il/developers",
+  "homepage": "https://www.deali.co.il",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/deali-prod/deali-cli.git"
